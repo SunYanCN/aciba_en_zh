@@ -55,6 +55,3 @@ if __name__ == '__main__':
     EN, CN = load_dataset('aciba_en_zh.txt')
     print(EN[0],CN[0])
 
-# http://open.iciba.com/?c=wiki
-# https://github.com/malone6/Aiciba/blob/master/aciba.py
-# https://github.com/varlemon/wechat-iciba-everyday
